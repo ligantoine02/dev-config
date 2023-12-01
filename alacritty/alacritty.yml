@@ -1,0 +1,21 @@
+import:
+  - ~/.config/alacritty/themes/themes/tokyo-night-storm.yaml
+
+window:
+  opacity: 0.9
+
+font:
+  normal:
+    family: 'Liga SFMono Nerd Font'
+    style: Regular
+  bold:
+    family: 'Liga SFMono Nerd Font'
+    style: Bold
+  italic:
+    family: 'Liga SFMono Nerd Font'
+    style: Italic
+  bold_italic:
+    family: 'Liga SFMono Nerd Font'
+    style: 'Bold Italic'
+
+  size: 10

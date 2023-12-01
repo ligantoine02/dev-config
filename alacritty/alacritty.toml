@@ -1,0 +1,17 @@
+live_config_reload = true
+
+#import:
+#- ~/.config/alacritty/themes/themes/hardhacker.yaml
+
+[font]
+size = 24
+
+[font.normal]
+family = "Cascadia Code"
+
+  [font.italic]
+  family = "Liga SFMono Nerd Font"
+  style = "Italic"
+
+[window]
+opacity = 0.6
